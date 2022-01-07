@@ -1,6 +1,6 @@
 # RemoteLocker
-Application to remote lock Keyboard and Mouse of slave PC in your network.
-Built for easy parental control
+Application to remote lock keyboard and mouse of the slave pc.
+Built for easy parental control.
 
 Steps:
 
