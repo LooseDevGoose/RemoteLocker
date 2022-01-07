@@ -11,3 +11,4 @@ Steps:
 5. Done
 
 Please mind that in case of need you can break the lock on the child computer with ctrl+alt+delete.
+![image](https://user-images.githubusercontent.com/88312242/148506380-19fcd33c-4ef9-406a-a420-f24699207b03.png)
